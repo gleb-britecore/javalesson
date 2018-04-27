@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Pogoni \n Kakie bili?");
+        System.out.println("TIGR");
     }
 }
