@@ -1,2 +1,3 @@
 # javalesson
-test_test_test
+@author Vlad_Kondratenko
+@version dated 27 April, 2018
