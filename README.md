@@ -1,3 +1,7 @@
 # javalesson
-@author Vlad_Kondratenko
-@version dated 27 April, 2018
+@author Vlad_Kondratenko 
+
+
+#tigr 
+
+@version dated 7 December, 1941
